@@ -742,8 +742,8 @@ const size_t k_max_message = 32 << 20;
 
 ## 📬 联系方式
 
-- **项目 Issues**: [GitHub Issues](https://github.com/your-username/simple_redis/issues)
-- **邮箱**: your-email@example.com
+- **项目 Issues**: [GitHub Issues](https://github.com/zwz110/-epoll-KV-)
+- **邮箱**: z97881722@gmail.com
 
 ---
 
@@ -751,6 +751,6 @@ const size_t k_max_message = 32 << 20;
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [zwz110]
 
 </div>
