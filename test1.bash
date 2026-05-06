@@ -1,0 +1,1 @@
+g++ -o server server1.cpp hashtable.cpp
